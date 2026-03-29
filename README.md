@@ -3,7 +3,7 @@
 ## The Open Source Audit — Apache HTTP Server
 
 **Student:** Dixant Paptwan
-**Registration Number:** 24BCY10927
+**Registration Number:** 24BCY10297
 **Course:** Open Source Software (OSS NGMC)
 **Chosen Software:** Apache HTTP Server
 
@@ -20,7 +20,7 @@ The audit covers the origin story and philosophy of Apache, its license (Apache 
 ## Repository Contents
 
 ```
-oss-audit-24BCY10927/
+oss-audit-24BCY10297/
 ├── README.md
 ├── script1_system_identity.sh
 ├── script2_package_inspector.sh
@@ -83,7 +83,7 @@ Clone the repository and make all scripts executable:
 
 ```bash
 git clone https://github.com/<your-username>/oss-audit-24BCY10927.git
-cd oss-audit-24BCY10927
+cd oss-audit-24BCY10297
 chmod +x *.sh
 ```
 
